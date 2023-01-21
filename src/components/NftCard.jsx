@@ -19,7 +19,7 @@ export default function NftCard() {
               alt="equilibrium"
               className="rounded-lg"
             />
-            <a href="#">
+            <a href="#" aria-label="link to equilibrium">
               <div class="bg-[url('../assets/images/icon-view.svg')] bg-no-repeat bg-center absolute top-0 left-0 w-full flex flex-col justify-center items-center opacity-0 h-0 bg-cust-p-Cyan bg-opacity-50 group-hover:opacity-100 group-hover:h-full hover:rounded-lg hover:cursor-pointer"></div>
             </a>
           </div>
